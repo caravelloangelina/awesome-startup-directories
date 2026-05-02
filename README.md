@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0E0C,100:1A1815&height=220&section=header&text=Awesome%20Startup%20Directories&fontColor=D7FF3D&fontSize=58&fontAlignY=38&desc=Where%20founders%20ship%2C%20launch%20%26%20get%20found&descAlignY=62&descSize=18&descColor=F2EBDC" width="100%" alt="Awesome Startup Directories" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AWESOME%20STARTUP%20DIRECTORIES-Where%20founders%20ship%2C%20launch%20%26%20get%20found-D7FF3D?style=for-the-badge&labelColor=0F0E0C&color=D7FF3D" alt="Awesome Startup Directories" />
+</p>
 
 <br/>
 
